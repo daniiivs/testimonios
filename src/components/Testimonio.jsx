@@ -19,6 +19,7 @@ function Testimonio({id, imageUrl, name, country, occupation, description}) {
         <div align="center">
             <Card sx={{maxWidth: 600}}>
                 <CardMedia
+                    component="img"
                     sx={{height: 300}}
                     image={imageUrl}
                     title={'Imagen de ' + name}

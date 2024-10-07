@@ -16,7 +16,7 @@ function App() {
             name: 'Marta Suárez',
             country: 'Japón',
             occupation: 'Ingeniera en Unifocus',
-            description: 'Trabajar con React ha sido una experiencia bastante reveladora. Me encanta lo intuitivo que es crear componentes interactivos y cómo el flujo de datos unidireccional ayuda a evitar confusiones cuando la aplicación crece. Además, su integración con herramientas como Redux o React Router lo convierte en una opción potente para aplicaciones más complejas. El uso de hooks ha simplificado mucho la gestión del estado, haciéndolo más accesible y limpio que antes. Aunque puede ser un poco abrumador al principio por la cantidad de conceptos nuevos, una vez que lo dominas, resulta una herramienta muy versátil'
+            description: 'Trabajar con React ha sido una experiencia bastante reveladora. Me encanta lo intuitivo que es crear componentes interactivos y cómo el flujo de datos unidireccional ayuda a evitar confusiones cuando la aplicación crece. Además, su integración con herramientas como Redux o React Router lo convierte en una opción potente para aplicaciones más complejas. El uso de hooks ha simplificado mucho la gestión del estado, haciéndolo más accesible y limpio que antes. Aunque puede ser un poco abrumador al principio por la cantidad de conceptos nuevos, una vez que lo dominas, resulta una herramienta muy versátil.'
         },
         {
             id: 2,
